@@ -197,6 +197,4 @@ Solar-Panal-Defect-Detection-using-Deep-Learning/
 ## Author
 
 **Hari Krishna Kumar** 
-- Your repo name has a typo ("Panal" → "Panel") — consider renaming it on GitHub; GitHub auto-redirects old links.
-- If you add a screenshot of the Streamlit UI later, drop it under an `images/` folder and I can add a Demo section.
-- Add a repo description + topics (deep-learning, tensorflow, streamlit, computer-vision) in the repo's About panel for better visibility.
+
